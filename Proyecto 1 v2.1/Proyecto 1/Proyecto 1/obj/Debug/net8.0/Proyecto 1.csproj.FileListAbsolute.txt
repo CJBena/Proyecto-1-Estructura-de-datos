@@ -1,0 +1,28 @@
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\bin\Debug\net8.0\Proyecto 1.exe
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\bin\Debug\net8.0\Proyecto 1.deps.json
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\bin\Debug\net8.0\Proyecto 1.runtimeconfig.json
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\bin\Debug\net8.0\Proyecto 1.dll
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\bin\Debug\net8.0\Proyecto 1.pdb
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.AssemblyInfo.cs
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.dll
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\obj\Debug\net8.0\refint\Proyecto 1.dll
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.pdb
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.genruntimeconfig.cache
+C:\Users\jerem\source\repos\Proyecto 1\Proyecto 1\obj\Debug\net8.0\ref\Proyecto 1.dll
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\bin\Debug\net8.0\Proyecto 1.exe
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\bin\Debug\net8.0\Proyecto 1.deps.json
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\bin\Debug\net8.0\Proyecto 1.runtimeconfig.json
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\bin\Debug\net8.0\Proyecto 1.dll
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\bin\Debug\net8.0\Proyecto 1.pdb
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.AssemblyInfoInputs.cache
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.AssemblyInfo.cs
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.csproj.CoreCompileInputs.cache
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.dll
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\obj\Debug\net8.0\refint\Proyecto 1.dll
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.pdb
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\obj\Debug\net8.0\Proyecto 1.genruntimeconfig.cache
+D:\Clases\EdD\Proyecto 1 v2\Proyecto 1\Proyecto 1\obj\Debug\net8.0\ref\Proyecto 1.dll
